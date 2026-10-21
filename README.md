@@ -4,6 +4,8 @@ A consulting-style market-selection case. A hypothetical Kenya-based mobile-mone
 
 **Answer.** Enter **Tanzania** first, hold **DR Congo** as a gated option, and commit to a second market only after a 2028 checkpoint. The business case is thin (Tanzania Base NPV about $13m, break-even if the operator wins about 14% of new users against 15% assumed), so the plan is gated, not a flat "enter two markets".
 
+**[![View Presentation](https://shields.io)](https://samolart.github.io/africa-mobile-money-frontier/deck/mobile_money_frontier_deck.html)**
+
 ## Open these first
 | File | What it is |
 |---|---|
